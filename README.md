@@ -18,7 +18,7 @@
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为`已接受`此声明，请仔细阅读***
 
 ## 多谢
-
+V0.11.23
 ## 框架关键词：
 ## .net core,Quartz,EntityFrameWork,Dapper,vue,iview,layui。
 
